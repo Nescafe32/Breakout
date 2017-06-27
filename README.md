@@ -14,19 +14,19 @@ Some levels
 <br />
 
 Some bonuses :)
-1) Reduce ball
+o Reduce ball
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27564980-f2f664c6-5ae3-11e7-8649-564006f8a3ad.png)
 ![image](https://user-images.githubusercontent.com/26405989/27565001-063ceaa0-5ae4-11e7-851c-7dfac9ad476c.png)
 <br />
 
-2) Reduce board
+o Reduce board
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27565021-1acb365c-5ae4-11e7-92fd-e1e150750402.png)
 ![image](https://user-images.githubusercontent.com/26405989/27565028-25e374b4-5ae4-11e7-9fa6-a5ac6a3f353a.png)
 <br />
 
-3) IT'S A FIREBAAAAAAAAAAAAL!!!
+o IT'S A FIREBAAAAAAAAAAAAL!!!
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27565035-2d0bcb56-5ae4-11e7-8554-4a1034603ee7.png)
 ![image](https://user-images.githubusercontent.com/26405989/27565040-3322f1fe-5ae4-11e7-9dfb-88b930f8bf08.png)
