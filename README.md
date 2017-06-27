@@ -5,6 +5,7 @@ Loading window
 ![image](https://user-images.githubusercontent.com/26405989/27564886-72084492-5ae3-11e7-9cb6-1b38bdfc3f0b.png)
 
 Some levels
+<br />
 ![image](https://user-images.githubusercontent.com/26405989/27564894-7d0284d4-5ae3-11e7-9752-62fcce9d4774.png)
 ![image](https://user-images.githubusercontent.com/26405989/27564906-874fa7aa-5ae3-11e7-92fa-afa6c0457fcb.png)
 ![image](https://user-images.githubusercontent.com/26405989/27564912-8cfc27c8-5ae3-11e7-81c1-d32488093c2b.png)
